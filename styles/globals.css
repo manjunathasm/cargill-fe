@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.thrive {
+    position: absolute;
+    right: 0;
+    height: 50px;
+    width: 100%;
+    background: #474c55 url(https://www.cargill.co.in/CCOM/assets/images/home-footer-thrive-white.png) no-repeat center right;
+    margin-bottom: -2px;
+}
